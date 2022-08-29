@@ -5,5 +5,5 @@ Criando APIs REST utilizando Node.js com Express
 <br>
 
 <p align="center">
-    <img width="100%" height="300px" src="./assets/banner.png">
+    <img src="./assets/banner.png">
 </p>
